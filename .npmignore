@@ -1,0 +1,11 @@
+# Only ignore build artifacts not needed for npm
+logs
+*.log
+pids
+*.pid
+*.seed
+build/*
+out/*
+spec/out/*
+tmp/*
+node_modules
